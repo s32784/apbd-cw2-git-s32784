@@ -14,6 +14,4 @@ public class Projector : Equipment
         Brightness = brightness;
         ImageResolution = resolution;
     }
-
-    
 }

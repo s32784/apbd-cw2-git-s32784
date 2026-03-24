@@ -20,8 +20,7 @@ namespace APBD_TASK2.Database
         }
 
         private Singleton() { }
-
-        [
+        
         public List<Equipment> Equipments { get; } = new();
         
         public List<User> Users { get; } = new();
