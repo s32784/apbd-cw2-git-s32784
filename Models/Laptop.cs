@@ -15,5 +15,5 @@ public class Laptop : Equipment
         ScreenSize = screen;
     }
 
-
+    
 }
